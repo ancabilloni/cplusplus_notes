@@ -191,3 +191,30 @@ int main(){
     
     Battle::StartFight(thor, hulk);
 }
+
+/* Output example of the fight
+Thor attack Hulk and deals 17 damage
+Hulk is down to 53 health
+Hulk attack Thor and deals 0 damage
+Thor is down to 25 health
+Thor attack Hulk and deals 9 damage
+Hulk is down to 44 health
+Hulk attack Thor and deals 16 damage
+Thor is down to 9 health
+Thor attack Hulk and deals 13 damage
+Hulk is down to 31 health
+Hulk attack Thor and deals 5 damage
+Thor is down to 4 health
+Thor attack Hulk and deals 5 damage
+Hulk is down to 26 health
+Hulk attack Thor and deals 0 damage
+Thor is down to 4 health
+Thor attack Hulk and deals 24 damage
+Hulk is down to 2 health
+Hulk attack Thor and deals 3 damage
+Thor is down to 1 health
+Thor attack Hulk and deals 5 damage
+Hulk is down to 0 health
+Hulk has Died and Thor is Victorious
+Game Over
+*/
